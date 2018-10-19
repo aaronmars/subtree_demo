@@ -3,7 +3,7 @@
  * This is the remote plugin
  * It is cool
  * Forgot this comment
- * Fixed the bug
+ * Fixed the bug for GOOD
  */
 
 // Require "FS"
