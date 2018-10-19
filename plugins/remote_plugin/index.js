@@ -8,6 +8,6 @@
 
 // Require "FS"
 require('fs');
-
+// Stop
 // Read the image
 fs.read('image.png');
